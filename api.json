@@ -1,0 +1,15 @@
+{
+  "id": "taos-hum",
+  "name": "Taos Hum",
+  "category": "ATMOSPHERIC_PHENOMENON",
+  "subcategory": "Acoustic",
+  "version": "1.0.0",
+  "last_updated": "2026-01-14",
+  "status": "documented",
+  "has_readme": true,
+  "has_sources": true,
+  "has_media": false,
+  "has_sightings": false,
+  "source_count": "50+",
+  "documentation_quality": "comprehensive"
+}
