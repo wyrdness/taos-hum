@@ -1,15 +1,126 @@
 {
-  "id": "taos-hum",
-  "name": "Taos Hum",
-  "category": "ATMOSPHERIC_PHENOMENON",
-  "subcategory": "Acoustic",
-  "version": "1.0.0",
-  "last_updated": "2026-01-14",
-  "status": "documented",
-  "has_readme": true,
-  "has_sources": true,
-  "has_media": false,
-  "has_sightings": false,
-  "source_count": "50+",
-  "documentation_quality": "comprehensive"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/taos-hum",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "taos-hum",
+    "name": "The Taos Hum",
+    "aliases": [],
+    "category": "ATMOSPHERIC_PHENOMENON",
+    "subcategory": "Unknown",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Taos Hum is a persistent, low-frequency sound phenomenon reported by residents of Taos, New Mexico, and surrounding areas since the early 1990s.",
+      "full": "The Taos Hum is a persistent, low-frequency sound phenomenon reported by residents of Taos, New Mexico, and surrounding areas since the early 1990s. Described as a subtle, rhythmic humming, droning, or rumbling sound similar to a distant diesel engine, the phenomenon has baffled scientists, medical professionals, and acoustic researchers for decades. What makes the Taos Hum particularly intriguing is that only a small percentage of the population—typically 2-11%—can hear it, leading to extensive investigations into both environmental and physiological explanations. The phenomenon gained widespread attention in 1993 when residents petitioned Congress to investigate the source of the mysterious sound that was disrupting their daily lives and causing various health effects. Despite multiple scientific studies and investigations by various government agencies, no definitive source has been identified, and the hum continues to perplex researchers and torment those who can hear it."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "ATMOSPHERIC_PHENOMENON",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
